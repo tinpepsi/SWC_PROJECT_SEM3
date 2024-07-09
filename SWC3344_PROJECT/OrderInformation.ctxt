@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=OrderInformation
+comment1.params=orderId\ itemName\ itemPrice\ quantity\ orderTime
+comment1.target=OrderInformation(java.lang.String,\ java.lang.String,\ double,\ int,\ java.lang.String)
+comment10.params=orderTime
+comment10.target=void\ setOrderTime(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ formattedItemPrice()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getOrderId()
+comment3.params=
+comment3.target=java.lang.String\ getItemName()
+comment4.params=
+comment4.target=double\ getItemPrice()
+comment5.params=
+comment5.target=int\ getQuantity()
+comment6.params=
+comment6.target=java.lang.String\ getOrderTime()
+comment7.params=orderId
+comment7.target=void\ setOrderId(java.lang.String)
+comment8.params=itemName
+comment8.target=void\ setItemName(java.lang.String)
+comment9.params=quantity
+comment9.target=void\ setQuantity(int)
+numComments=13

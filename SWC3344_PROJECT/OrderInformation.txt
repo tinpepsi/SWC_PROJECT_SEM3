@@ -1,0 +1,100 @@
+CD0001; 3pcs Chicken Tenders Combo; 15.75; 5; 14:23
+CD0002; 6pcs Chicken Tenders Combo; 18.30; 3; 12:45
+CD0003; 9pcs Chicken Tenders Combo; 22.10; 2; 16:10
+CD0004; 2pcs Chicken Tenders Rice Box Combo; 12.50; 4; 11:00
+CD0005; 3pcs Chicken Tenders Ala Carte; 10.20; 6; 13:35
+CD0006; 6pcs Chicken Tenders Ala Carte; 15.45; 3; 14:55
+CD0007; 9pcs Chicken Tenders Ala Carte; 20.99; 2; 10:15
+CD0008; 2pcs Chicken Tenders Rice Box Ala Carte; 11.80; 5; 15:45
+CD0009; 6 Pcs Wingettes & Drumettes Combo; 19.35; 4; 12:30
+CD0010; 12 Pcs Wingettes & Drumettes Combo; 30.60; 1; 09:00
+CD0011; 18 Pcs Wingettes & Drumettes Combo; 40.25; 2; 18:05
+CD0012; 3 Pcs Drumsticks Combo; 13.50; 6; 14:20
+CD0013; 6 Pcs Drumsticks Combo; 24.99; 3; 11:50
+CD0014; 9 Pcs Drumsticks Combo; 35.80; 2; 16:00
+CD0015; 1 Drumstick & 3 Wings Combo; 15.40; 4; 17:45
+CD0016; 6 Pcs Wingettes & Drumettes A La Carte; 18.55; 3; 13:00
+CD0017; 12 Pcs Wingettes & Drumettes A La Carte; 28.75; 2; 10:30
+CD0018; 18 Pcs Wingettes & Drumettes A La Carte; 38.10; 1; 19:20
+CD0019; 3 Pcs Drumsticks A La Carte; 11.95; 5; 15:30
+CD0020; 6 Pcs Drumsticks A La Carte; 22.25; 4; 12:40
+CD0021; 9 Pcs Drumsticks A La Carte; 33.70; 2; 11:15
+CD0022; 1 Drumstick & 3 Wings A La Carte; 13.45; 3; 16:50
+CD0023; Drumstick Rice Box Combo; 14.35; 6; 09:45
+CD0024; Wings Rice Box Combo; 15.99; 4; 14:35
+CD0025; Tofu Rice Box Combo; 12.80; 5; 13:55
+CD0026; Boneless Chicken Bites Rice Box Combo; 18.65; 3; 12:20
+CD0027; Wings Rice Box A La Carte; 14.10; 4; 11:10
+CD0028; Boneless Chicken Bites Rice Box A La Carte; 16.40; 3; 17:00
+CD0029; Chicc Crisp Combo; 10.25; 5; 15:40
+CD0030; B.F.F. Combo; 25.70; 2; 18:30
+CD0031; Chicc Katsu Sandwich + 3 PCS W/D Combo; 22.95; 3; 12:00
+CD0032; Spicy Chicc Crunch Ala Carte; 20.15; 4; 09:50
+CD0033; Calamari 'N' Shrimp Combo; 25.85; 2; 14:10
+CD0034; Calamari 'N' Shrimp A La Carte; 22.30; 3; 13:25
+CD0035; 10 Rice Box; 8.99; 5; 10:45
+CD0036; Kimchi Fries (Regular); 7.75; 6; 16:15
+CD0037; Seaweed Fries (Regular); 7.50; 5; 11:35
+CD0038; Tater Tots (Kimchi); 8.60; 4; 14:50
+CD0039; Cheesy Loaded Tater Tots; 10.40; 3; 13:10
+CD0040; 2 Pcs Mochi; 6.35; 6; 15:25
+CD0041; Iced Lemon Tea; 3.20; 5; 12:05
+CD0042; Mirinda Strawberry; 3.10; 6; 09:20
+CD0043; Sjora; 4.75; 4; 18:15
+CD0044; Bottled Water; 2.50; 6; 11:55
+CD0045; 3pcs Chicken Tenders Combo; 15.45; 4; 14:40
+CD0046; 6pcs Chicken Tenders Combo; 18.99; 2; 13:20
+CD0047; 9pcs Chicken Tenders Combo; 22.75; 1; 10:05
+CD0048; 2pcs Chicken Tenders Rice Box Combo; 12.60; 5; 17:35
+CD0049; 3pcs Chicken Tenders Ala Carte; 10.85; 6; 09:30
+CD0050; 6pcs Chicken Tenders Ala Carte; 15.20; 3; 16:25
+CD0051; 3pcs Chicken Tenders Combo; 15.30; 2; 11:20
+CD0052; 6pcs Chicken Tenders Combo; 18.50; 3; 12:50
+CD0053; 9pcs Chicken Tenders Combo; 22.15; 4; 15:15
+CD0054; 2pcs Chicken Tenders Rice Box Combo; 12.90; 1; 14:10
+CD0055; 3pcs Chicken Tenders Ala Carte; 10.65; 3; 16:40
+CD0056; 6pcs Chicken Tenders Ala Carte; 15.75; 5; 10:25
+CD0057; 9pcs Chicken Tenders Ala Carte; 20.50; 2; 09:55
+CD0058; 2pcs Chicken Tenders Rice Box Ala Carte; 11.60; 4; 18:20
+CD0059; 6 Pcs Wingettes & Drumettes Combo; 19.99; 3; 13:45
+CD0060; 12 Pcs Wingettes & Drumettes Combo; 30.40; 2; 11:30
+CD0061; 18 Pcs Wingettes & Drumettes Combo; 40.15; 1; 17:10
+CD0062; 3 Pcs Drumsticks Combo; 13.35; 4; 16:05
+CD0063; 6 Pcs Drumsticks Combo; 24.85; 5; 12:15
+CD0064; 9 Pcs Drumsticks Combo; 35.50; 2; 10:40
+CD0065; 1 Drumstick & 3 Wings Combo; 15.70; 3; 14:30
+CD0066; 6 Pcs Wingettes & Drumettes A La Carte; 18.65; 6; 15:00
+CD0067; 12 Pcs Wingettes & Drumettes A La Carte; 28.30; 2; 11:55
+CD0068; 18 Pcs Wingettes & Drumettes A La Carte; 38.75; 4; 17:30
+CD0069; 3 Pcs Drumsticks A La Carte; 11.40; 1; 09:25
+CD0070; 6 Pcs Drumsticks A La Carte; 22.10; 3; 13:20
+CD0071; 9 Pcs Drumsticks A La Carte; 33.55; 5; 15:45
+CD0072; 1 Drumstick & 3 Wings A La Carte; 13.95; 2; 12:10
+CD0073; Drumstick Rice Box Combo; 14.25; 4; 14:55
+CD0074; Wings Rice Box Combo; 15.10; 3; 16:25
+CD0075; Tofu Rice Box Combo; 12.99; 6; 11:40
+CD0076; Boneless Chicken Bites Rice Box Combo; 18.99; 1; 10:15
+CD0077; Wings Rice Box A La Carte; 14.99; 2; 09:30
+CD0078; Boneless Chicken Bites Rice Box A La Carte; 16.99; 3; 12:45
+CD0079; Chicc Crisp Combo; 10.99; 4; 18:00
+CD0080; B.F.F. Combo; 25.99; 5; 15:10
+CD0081; Chicc Katsu Sandwich + 3 PCS W/D Combo; 22.45; 3; 14:20
+CD0082; Spicy Chicc Crunch Ala Carte; 20.85; 2; 16:35
+CD0083; Calamari 'N' Shrimp Combo; 25.55; 1; 13:55
+CD0084; Calamari 'N' Shrimp A La Carte; 22.99; 6; 11:20
+CD0085; 10 Rice Box; 8.35; 3; 17:30
+CD0086; Kimchi Fries (Regular); 7.80; 4; 15:45
+CD0087; Seaweed Fries (Regular); 7.25; 2; 10:10
+CD0088; Tater Tots (Kimchi); 8.50; 5; 12:25
+CD0089; Cheesy Loaded Tater Tots; 10.99; 1; 09:40
+CD0090; 2 Pcs Mochi; 6.65; 6; 16:15
+CD0091; Iced Lemon Tea; 3.45; 3; 13:20
+CD0092; Mirinda Strawberry; 3.85; 4; 14:45
+CD0093; Sjora; 4.55; 2; 11:00
+CD0094; Bottled Water; 2.75; 5; 17:10
+CD0095; 3pcs Chicken Tenders Combo; 15.20; 6; 15:25
+CD0096; 6pcs Chicken Tenders Combo; 18.65; 4; 12:30
+CD0097; 9pcs Chicken Tenders Combo; 22.50; 3; 10:55
+CD0098; 2pcs Chicken Tenders Rice Box Combo; 12.35; 2; 18:40
+CD0099; 3pcs Chicken Tenders Ala Carte; 10.70; 1; 16:05
+CD0100; 6pcs Chicken Tenders Ala Carte; 15.30; 5; 14:20

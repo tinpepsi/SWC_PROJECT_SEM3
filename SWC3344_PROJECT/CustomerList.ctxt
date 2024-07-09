@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CustomerList
+comment1.params=customerInfo\ orderInfo
+comment1.target=CustomerList(CustomerInformation,\ OrderInformation)
+comment2.params=
+comment2.target=OrderInformation\ getOrderInfo()
+comment3.params=
+comment3.target=CustomerInformation\ getCustomerInfo()
+comment4.params=
+comment4.target=java.lang.String\ getItem_Name()
+comment5.params=
+comment5.target=double\ getTotalAmount()
+comment6.params=
+comment6.target=java.lang.String\ getFormattedTotalAmount()
+numComments=7
